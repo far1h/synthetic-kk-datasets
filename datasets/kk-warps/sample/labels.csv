@@ -1,0 +1,5 @@
+image,flat,maps,seed,family,strength,background,height,width
+page0000/perspective_1_table.jpg,page0000/flat.png,page0000/perspective_1_table_maps.npz,0,perspective,1.0,table,894,1200
+page0000/curl_1_table.jpg,page0000/flat.png,page0000/curl_1_table_maps.npz,0,curl,1.0,table,724,1200
+page0000/fold_1_table.jpg,page0000/flat.png,page0000/fold_1_table_maps.npz,0,fold,1.0,table,1200,1059
+page0000/mesh_1_table.jpg,page0000/flat.png,page0000/mesh_1_table_maps.npz,0,mesh,1.0,table,857,1200
